@@ -1,7 +1,7 @@
 # Usage
 
-`:Machuquei 10`
-
+`:Machuquei 10`  
+` Machuquei, machuquei A xota da paty Ela geme bem e`
 
 # Install
 
